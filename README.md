@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khadija</h1>
 <h3 align="center">A passionate Full stack developer from Morocco</h3>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
+
 - 🔭 I’m currently working on **E-classe web application with php**
 
 - 🌱 I’m currently learning **PHP and Bootsrap**

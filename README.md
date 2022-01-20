@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full stack developer from Morocco</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KhadijaMakkaoui)
+Thanks for visiting my profile 
 
 - 🔭 I’m currently working on **E-classe web application with php**
 
@@ -11,7 +12,7 @@
 
 - 💬 Ask me about **HTML/CSS**
 
-- 📫 How to reach me **makkaoui.khadija44@gmail.com**
+- 📫 Reach me at **makkaoui.khadija44@gmail.com**
 
 - ⚡ Hubbies **I like travelling and photography**
 

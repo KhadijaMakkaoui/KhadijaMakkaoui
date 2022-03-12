@@ -4,9 +4,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KhadijaMakkaoui)
 Thanks for visiting my profile 
 
-- 🔭 I’m currently working on **E-classe web application with php**
+- 🔭 I’m currently working on **Mini-Calculator project with javascript**
 
-- 🌱 I’m currently learning **PHP and MySQL**
+- 🌱 I’m currently learning **PHP ,javascript and MySQL**
 
 - 👯 I’m looking to collaborate on **web application projects**
 

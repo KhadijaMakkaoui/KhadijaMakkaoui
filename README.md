@@ -4,13 +4,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KhadijaMakkaoui)
 Thanks for visiting my profile 
 
-- 🔭 I’m currently working on **Contacts web application using php pdo**
+- 🔭 I’m currently working on *Dolibarr CRM & ERP software application**
 
-- 🌱 I’m currently learning **PHP ,javascript and MySQL**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **web application projects**
 
-- 💬 Ask me about **HTML/CSS**
+- 💬 Ask me about **PHP**
 
 - 📫 Reach me at **makkaoui.khadija44@gmail.com**
 

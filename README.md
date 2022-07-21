@@ -6,7 +6,7 @@ Thanks for visiting my profile
 
 - 🔭 I’m currently working on *Dolibarr CRM & ERP software application**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP frameworks**
 
 - 👯 I’m looking to collaborate on **web application projects**
 

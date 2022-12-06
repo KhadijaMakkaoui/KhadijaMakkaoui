@@ -4,9 +4,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KhadijaMakkaoui)
 Thanks for visiting my profile 
 
-- 🔭 I’m currently working on *Java applications**
+- 🔭 I’m currently working on **Spring boot web applications**
 
-- 🌱 I’m currently learning **Java programming language**
+- 🌱 I’m currently learning **Java and Spring boot framework**
 
 - 👯 I’m looking to collaborate on **web application projects**
 
